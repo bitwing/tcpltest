@@ -28,7 +28,7 @@ void swap(int v[], int i, int j){
 
 }
 
-int main(void)
+/*int main(void)
 {
     int array[] = {4, 3, 1, 2, 5};
     printf("%d %d %d %d %d \n", array[0], array[1], array[2], array[3], array[4]);
@@ -36,3 +36,4 @@ int main(void)
     printf("%d %d %d %d %d \n", array[0], array[1], array[2], array[3], array[4]);
    return 0;
 }
+*/
